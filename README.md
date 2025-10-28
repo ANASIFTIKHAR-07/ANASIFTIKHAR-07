@@ -7,86 +7,79 @@
 ### 👋 About Me
 - 💻 **MERN Stack + ML Developer**
 - 🌱 Working on **Agriculture-based Government FYP**
-- 🧠 Strong Python background, learning ML
+- 🧠 Strong Python background, actively learning Machine Learning
 - ⚡ **Typing Speed:** 120 WPM consistently
-- 🎯 Goal: **Join Google as a Software Engineer**
+- 🎯 **Goal:** Join Google as a Software Engineer
 
 ---
 
-### 🛠️ Tech Stack (works everywhere)
+### 🛠️ Tech Stack
+
 <p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="4">
-
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="60" style="margin:10px;" alt="React" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" height="60" style="margin:10px;" alt="Next.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="60" style="margin:10px;" alt="JavaScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60" style="margin:10px;" alt="TypeScript" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" height="60" style="margin:10px;" alt="Redux" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" height="60" style="margin:10px;" alt="Tailwind" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" height="60" style="margin:10px;" alt="Bootstrap" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" height="60" style="margin:10px;" alt="Material UI" />
-
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="60" style="margin:10px;" alt="Node.js" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="60" style="margin:10px; background-color:white; border-radius:10px;" alt="Express" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" height="60" style="margin:10px;" alt="Django" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" height="60" style="margin:10px;" alt="FastAPI" />
-
-  <!-- Database / Cloud -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="60" style="margin:10px;" alt="MongoDB" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="60" style="margin:10px;" alt="PostgreSQL" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" height="60" style="margin:10px;" alt="Prisma" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="60" style="margin:10px;" alt="Firebase" />
-  <img src="https://cdn.worldvectorlogo.com/logos/cloudinary-2.svg" height="60" style="margin:10px;" alt="Cloudinary" />
-
-  <!-- ML / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="60" style="margin:10px;" alt="Python" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" height="60" style="margin:10px;" alt="NumPy" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="60" style="margin:10px;" alt="Pandas" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" height="60" style="margin:10px;" alt="Scikit-learn" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="60" style="margin:10px;" alt="Git" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="60" style="margin:10px;" alt="Docker" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" height="60" style="margin:10px;" alt="Postman" />
-
-  </marquee>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,redux,tailwind,bootstrap,materialui" alt="Frontend" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,mongodb,postgres,prisma,firebase" alt="Backend & Database" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,sklearn,tensorflow,git,docker,postman" alt="ML & Tools" />
 </p>
 
 ---
 
-### 🚀 Projects
+### 🚀 Featured Projects
+
 | Project | Description | Tech Stack |
-|---|---|---|
-| 🌾 **Agri Research System** |  |  |
-| 💰 **Price Tracking Website** |  |  |
-| 🅿️ **Parking Management System** |  |  |
-| 🧬 **ProFuncAI** |  |  |
-| 🐾 **Pet Finder App** |  |  |
+|---------|-------------|------------|
+| 🌾 **Agri Research System** | Government-backed agriculture research platform for my Bachelor's FYP. Features crop analysis, research data management, and ML-based insights for agricultural planning and decision-making | MERN Stack, Python, Machine Learning |
+| 💰 **Gulf Price Tracker** | Real-time price tracking application for cryptocurrency, gold, and silver markets across Gulf region (Saudi Arabia, Egypt, UAE). Includes localized financial news, market analysis, and latest price alerts | React, Node.js, Express, MongoDB, External APIs |
+| 🅿️ **Enterprise Parking System** | Commercial parking management solution deployed for a Saudi Arabia-based company. Comprehensive system handling reservations, automated payments, real-time space availability, and admin analytics dashboard | MERN Stack, Payment Gateway Integration |
+| 🧬 **ProFuncAI** | Bioinformatics platform developed for local laboratory networks. Features ML-powered protein function prediction, molecular docking simulations, and virtual screening capabilities for drug discovery research | Python, Django, FastAPI, Scikit-learn, Bioinformatics Libraries |
+| 🐾 **Pet Finder Platform** | International pet recovery application connecting lost pets with owners through community-driven search, geolocation matching, and real-time notifications for reuniting pets with families | MERN Stack, Geolocation APIs, Firebase |
+
+<p align="center"><i>+ Additional private client projects including e-commerce platforms with advanced referral systems and enterprise business solutions</i></p>
 
 ---
 
 ### 📊 GitHub Insights
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANASIFTIKHAR-07&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANASIFTIKHAR-07&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANASIFTIKHAR-07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANASIFTIKHAR-07&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASIFTIKHAR-07&layout=compact&theme=radical" />
-</p>
-
----
-
-### 💬 Connect
-<p align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/github.svg" height="32" width="32" alt="GitHub"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" height="32" width="32" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg" height="32" width="32" alt="Gmail"/></a>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASIFTIKHAR-07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" alt="Top Languages" />
 </p>
 
 ---
 
+### 💬 Connect With Me
+
 <p align="center">
-  <b>“Code. Build. Learn. Repeat.”</b>
+  <a href="https://github.com/ANASIFTIKHAR-07" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> -->
+  <a href="mailto:your.anasiftikhar07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 </p>
 
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ANASIFTIKHAR-07&color=00C2FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <b>💡 "Code. Build. Learn. Repeat." 💡</b>
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ From <a href="https://github.com/ANASIFTIKHAR-07">ANASIFTIKHAR-07</a> - Open to collaboration and opportunities!</i>
+</p>
