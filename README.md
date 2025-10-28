@@ -5,10 +5,10 @@
 ---
 
 ### 👋 About Me
-- 💻 **MERN Stack + ML Developer**
-- 🌱 Working on **Agriculture-based Government FYP**
-- 🧠 Strong Python background, actively learning Machine Learning
-- ⚡ **Typing Speed:** 120 WPM consistently
+- 💻 **MERN Stack + ML Developer** building full-stack applications and ML solutions
+- 🌱 Currently working on **Government-backed Agriculture Research Platform** (Bachelor's FYP)
+- 🧠 Strong foundation in **Python, JavaScript/TypeScript** with focus on scalable systems
+- ⚡ **120 WPM** typing speed - fast execution, faster delivery
 - 🎯 **Goal:** Join Google as a Software Engineer
 
 ---
@@ -41,16 +41,22 @@
 
 ---
 
-### 📊 GitHub Insights
+### 🏆 Highlights
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ANASIFTIKHAR-07&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&icon_color=00C2FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ANASIFTIKHAR-07&theme=radical&hide_border=true&background=0D1117&ring=00C2FF&fire=00C2FF&currStreakLabel=00C2FF" alt="GitHub Streak" />
-</p>
+- 💼 **5+ Production Applications** deployed across international markets
+- 🏛️ **Government Project Lead** - Agriculture research platform development
+- 🧬 **Bioinformatics Collaboration** - ML solutions for drug discovery research
+- 🌍 **International Client Work** - Projects spanning Saudi Arabia, Gulf region, and beyond
+- ⚡ **Fast Execution** - 120 WPM ensures rapid prototyping and development
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ANASIFTIKHAR-07&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00C2FF&text_color=FFFFFF" alt="Top Languages" />
-</p>
+---
+
+### 📚 Currently Learning
+
+- 🤖 Advanced Machine Learning & Deep Learning techniques
+- 🏗️ System Design & Scalable Architecture patterns
+- ⚙️ DevOps & CI/CD best practices
+- 📊 Data Structures & Algorithms (LeetCode practice)
 
 ---
 
@@ -60,10 +66,10 @@
   <a href="https://github.com/ANASIFTIKHAR-07" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <!-- <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a> -->
-  <a href="mailto:your.anasiftikhar07@gmail.com">
+  </a>
+  <a href="mailto:your.email@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
@@ -81,5 +87,5 @@
 ---
 
 <p align="center">
-  <i>⭐ From <a href="https://github.com/ANASIFTIKHAR-07">ANASIFTIKHAR-07</a> - Open to collaboration and opportunities!</i>
+  <i>⭐ Open to collaboration and new opportunities!</i>
 </p>
