@@ -8,8 +8,8 @@
 - 💻 **MERN Stack + ML Developer** building full-stack applications and ML solutions
 - 🌱 Currently working on **Government-backed Agriculture Research Platform** (Bachelor's FYP)
 - 🧠 Strong foundation in **Python, JavaScript/TypeScript** with focus on scalable systems
-- ⚡ **120 WPM** typing speed - fast execution, faster delivery
-- 🎯 **Goal:** Join Google as a Software Engineer
+- ⚡ **130 WPM** typing speed - fast execution, faster delivery
+- 🎯 **Goal:** Build high-impact, scalable software solutions and grow as a backend/ML engineer
 
 ---
 
